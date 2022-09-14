@@ -14,9 +14,11 @@ Labürindist väljudes peab olema selgelt näha valitud raja kujutis ning võima
 
 # POC
 **Video with everything working - https://youtu.be/QR5cyshszuU**
-![MazebotPIC1](https://user-images.githubusercontent.com/92330937/190148871-86184d3a-ac64-44c4-a346-12cd85def0b9.png | width=100)
+![MazebotPIC1](https://user-images.githubusercontent.com/92330937/190148871-86184d3a-ac64-44c4-a346-12cd85def0b9.png)
 ![MazebotPIC2](https://user-images.githubusercontent.com/92330937/190148964-5af36851-0069-4846-b289-8e1365e92961.png)
 
 ![Maze_bot](https://user-images.githubusercontent.com/92330937/190146883-8fbf3aac-5d1d-491a-8f65-9b1ee049c613.gif)
 
+Authors:
+This was a university group project by Siim Tishler, Markus Visnapuu and Rannar Randmäe. 
 
