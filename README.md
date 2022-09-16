@@ -1,6 +1,8 @@
 # Arduino-Maze-bot
 # Vahendid: Robotikomplekt + ultraheli liigutamise sensor + must kast või raamatud + LCD 1602
 
+**The code is commented in estonian and some variables are also in estonian**
+
 **Tulemus**: Robot sõidab “musta kasti” ehk raamatutest või pappkarbist ehitatud labürinti. Labürint peab olema koostatud nii, 
 et robot ei saa sealt välja otse läbi sõites. Labürindi algus ja lõpp võivad olla tähistatud. 
 Robot läbib labürindi kasutades liigutatavat ultraheli sensorit. Programmi töö alustamiseks peab kasutaja vajutama robotil olevat surunuppu. 
@@ -13,7 +15,7 @@ Lisaks peab robot oma pööretest kuvama info LCD ekraanile, lisaks ASCII noolte
 Labürindist väljudes peab olema selgelt näha valitud raja kujutis ning võimalusel lisatud juurde sooritatud manöövrid ASCII koodis nooltena.
 
 # POC
-**Video with everything working - https://youtu.be/QR5cyshszuU**
+**Video with everything working** - https://youtu.be/QR5cyshszuU
 
 ![MazebotPIC121](https://user-images.githubusercontent.com/92330937/190150946-0206cacf-1f6f-4f8a-b4df-71106143535f.png)
 
@@ -22,6 +24,7 @@ Labürindist väljudes peab olema selgelt näha valitud raja kujutis ning võima
 
 ![Maze_bot](https://user-images.githubusercontent.com/92330937/190146883-8fbf3aac-5d1d-491a-8f65-9b1ee049c613.gif)
 
-Authors:
+
+
 This was a university group project by Siim Tishler, Markus Visnapuu and Rannar Randmäe. 
 
